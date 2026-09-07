@@ -3,6 +3,6 @@
 Versionh: V1.o
 
 Specification:
-zombie Api detection
-Autonomous penetratiobn testing
-Zombie PI huntuing
+1.zombie Api detection
+2.Autonomous penetratiobn testing
+3.Zombie PI huntuing
